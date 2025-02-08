@@ -1,5 +1,13 @@
+botorch==0.11.4.dev49+gd841f2bc
+dynonet==0.1.2
 gpytorch==1.13
-matplotlib==3.9.2
-numpy==2.1.1
-torch==2.4.1
-torchaudio==2.4.1
+linear_operator==0.5.3
+matplotlib==3.10.0
+nonlinear_benchmarks==0.1.2
+numpy==2.2.2
+pandas==2.2.3
+scipy==1.15.1
+scoringrules==0.7.1
+torch==2.5.1
+torchaudio==2.5.1
+tqdm==4.67.0
