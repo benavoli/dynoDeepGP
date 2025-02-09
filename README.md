@@ -6,7 +6,7 @@ This repository contains the Python code for a novel approach to system identifi
 
 For more details, see the below paper. 
 
-The repository includes a Jupyter Notebook that runs dynoGP and dynoNet on a simulated problem (folder `notebook'). Additionally, the simulations folder contains scripts for applying dynoGP to real datasets, as described in the paper.
+The repository includes a Jupyter Notebook that runs dynoGP and [dynoNet](https://github.com/forgi86/dynonet) on a simulated problem (folder `notebook'). Additionally, the simulations folder contains scripts for applying dynoGP to real datasets, as described in the paper.
 
 ## How to cite
 If you are using `dynoGP` for your research, consider citing the following papers: 
