@@ -15,6 +15,6 @@ If you are using `dynoGP` for your research, consider citing the following paper
 title = {dynoGP: Deep Gaussian Processes for dynamic system
 identification},
 author = {Alessio Benavoli and Dario Piga and Marco Forgione and Marzo Zaffalon},
-url = {https://arxiv.org/abs/},
+url = {http://arxiv.org/abs/2502.05620},
 year = {2025},
 }
